@@ -1,0 +1,7 @@
+pyproject.toml
+samp_package/__init__.py
+samp_package/module1.py
+samp_package.egg-info/PKG-INFO
+samp_package.egg-info/SOURCES.txt
+samp_package.egg-info/dependency_links.txt
+samp_package.egg-info/top_level.txt
