@@ -1,0 +1,6 @@
+[project]
+name="emp-management"
+version="1.0.0"
+
+[project.scripts]
+employee="app.main:main"

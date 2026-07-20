@@ -1,0 +1,12 @@
+INFO:root:file not found
+INFO:root:None
+INFO:root:Hello from index.txt
+INFO:root:File operations are completed
+ERROR:root:file not found
+INFO:root:None
+INFO:root:Hello from index.txt
+INFO:root:File operations are completed
+ERROR:root:file not found
+INFO:root:None
+INFO:root:Hello from index.txt
+INFO:root:File operations are completed
